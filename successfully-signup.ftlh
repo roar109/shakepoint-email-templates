@@ -1,0 +1,1 @@
+<b>Gracias por registrarte en Shakepoint ${name}!<b>
