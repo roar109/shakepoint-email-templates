@@ -1,0 +1,1 @@
+<p>El producto <b>${productName}</b> esta en bajas cantidades en la maquina <b>${machineId}</b> - <b>${machineName}</b></p>
