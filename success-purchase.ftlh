@@ -208,7 +208,7 @@
             </tr>
             <tr>
                 <td>
-                    <h5 class="fecha">29 de Noviembre de 2018</h5>
+                    <h5 class="fecha">${purchaseDate}</h5>
                     <table class="orange">
                         <tr class="first-child">
                             <td class="first-child">
